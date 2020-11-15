@@ -1,0 +1,80 @@
+.btn, .btn-outline-dark{
+	border:none;
+}
+
+.col-cd-4 {
+   padding: 0 !important;
+   margin: 1px !important;
+}
+
+.bg-light {
+	background-color: #fdfdfd !important;
+}
+
+.row + .nav {
+	background-color: #fdfdfd !important;
+}
+
+.navbar {
+	background-color: #f9f9f9 !important;
+}
+
+.row > .mx-auto {
+	margin:5px 0px;
+}
+
+.row > .header {
+	background: red;
+}
+
+
+.top-botones {
+	background-color: white;
+}
+
+.main-container {
+	margin: 2% auto;
+	background-color: #ffffff;
+	max-width: 700px;
+	border-radius: 4px;
+}
+
+.container-fluid {
+	padding: 0;
+}
+
+.row-content {
+	background-color: #e2e2e2; 
+	padding-top: 0.2em;
+    padding-bottom: 0.2em;
+}
+
+.title-photo {
+	margin: 5px 0px 5px 10px !important;
+	font-size: 1.75rem;
+}
+
+.date-post {
+	    color: gray;
+    margin: 0.9rem;
+}
+
+.bot-post {
+	margin: 0px 10px;
+
+}
+
+.bot-post * div{
+	margin-top: 5px;
+	margin-bottom: 2px;
+	
+}
+
+.row {
+	margin-right: 0;
+    margin-left: 0;
+}
+
+.col {
+	padding: 0px;
+}
